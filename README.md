@@ -18,6 +18,14 @@ Jupyter Notebook Files:: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation
 
 Python, Anaconda Navigator, Pandas, Matplotlib, CitiPy, SciPy, APIs, JSON, Numpy, Open Weather API, Google Maps API, Regression Analysis
 
+## Retrieve Weather Data 
+### Purpose: Retrieve Weather Data
+The first part of this project will generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the use of OpenWeatherMap API's. In addition to the city weather data  we will retrieve the current weather description for each city. Last i will, create a new DataFrame containing the updated weather data.
+
+![image](https://user-images.githubusercontent.com/96351897/153705871-0059cb28-627c-42de-9759-c4ecfab220cf.png)
+
+
+
 ## Vacation Search
 ### Purpose: Create a Customer Travel Destinations Map 
 
