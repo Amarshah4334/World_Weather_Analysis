@@ -2,8 +2,12 @@
 Generate destinations and travel maps using Google Maps Platform APIs.
 
 
+
+
+
+
 ## Vacation Search
-Purpose: Create a Customer Travel Destinations Map 
+### Purpose: Create a Customer Travel Destinations Map 
 
 This report is created to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 List of deliverables in this report:-
@@ -17,9 +21,25 @@ List of deliverables in this report:-
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/96351897/153704856-ef8e689e-7b04-4fda-870e-2f0630a7a7e5.png)
 
+## Vacation Itinerary
+### Purpose: Create a Travel Itinerary Map
+
+In this Analysis with the use of Google Directions API i have created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, i added a marker layer map with a pop-up marker for each city on the customers itinerary.
+1. Four DataFrames are created, one for each city on the itinerary.
+2. The latitude and longitude pairs for each of the four cities are depicted.
+3. A directions layer map between the cities and the travel map is shown. 
+4. A DataFrame that contains the four cities on the itinerary is shown.
+5. A marker layer map with a pop-up marker for the cities on the itinerary is seen. 
+Each marker has the following information: 
+- Hotel name
+- City
+- Country
+- Current weather description with the maximum temperature
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/96351897/153705167-141679c9-b255-4f2a-8689-6b421f5f147d.png)
 
 
-
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/96351897/153705171-0a1c90c1-f935-4921-b8b8-070c380d16a5.png)
 
 
 ## Scatter Plots
