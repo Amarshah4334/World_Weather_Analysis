@@ -1,6 +1,12 @@
 # World_Weather_Analysis
 Generate destinations and travel maps using Google Maps Platform APIs.
 
+## Scatter Plots
+The use of scatter plots in this analysis is to write a summary report on how different weather parameters change based on the latitude.
+the images below have depicted a series of scatter plots for each weather parameter against latitude vs. maximum temperature, humidity, cloudiness, and wind speed for all the cities.  
+
+
+
 ## Max Temperature
 ![Fig1](https://user-images.githubusercontent.com/96351897/153704598-a702d440-579b-4862-b8d0-1085b3f11cb0.png)
 ## Humidity
