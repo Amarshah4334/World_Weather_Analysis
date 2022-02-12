@@ -63,17 +63,5 @@ Each marker has the following information:
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/96351897/153705171-0a1c90c1-f935-4921-b8b8-070c380d16a5.png)
 
 
-## Scatter Plots
-The use of scatter plots in this analysis is to write a summary report on how different weather parameters change based on the latitude.
-the images below have depicted a series of scatter plots for each weather parameter against latitude vs. maximum temperature, humidity, cloudiness, and wind speed for all the cities.  
-
-
-
-## Max Temperature
-![Fig1](https://user-images.githubusercontent.com/96351897/153704598-a702d440-579b-4862-b8d0-1085b3f11cb0.png)
-## Humidity
-![Fig2](https://user-images.githubusercontent.com/96351897/153704593-a8f3e766-80e6-4383-a84a-937e7cf8c2c1.png)
-## Cloudiness
-![Fig3](https://user-images.githubusercontent.com/96351897/153704586-599f477c-2196-478a-84e8-0d6c01e252fd.png)
-## Wind Speed
-![Fig4](https://user-images.githubusercontent.com/96351897/153704576-815aa4b3-8d00-43c0-b3df-ecd76c8118a6.png)
+## Summary
+PlanMyTril ia and Travel and Weather app. adding information in regards to weather perferences a customer can choose what is the best place to go for their weather of choice during vacationing. The new interface will help them easily find their chosen vacation sites based on these weather preferences and lastly will create a travel itineary and route guide making their trip effortless and comfortable both with providing them will basic details of city, hotel of stay, weather country it makes the customers travel  search experience very simplified and effortless. The project whould see better customer bandwidth after implementation. 
