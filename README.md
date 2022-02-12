@@ -7,9 +7,9 @@ Next from the list of potential travel destinations, the customer will now be ab
 Upon completion this Analysis will enhance the user interface and functionality of the PlanMyTrip app.
 
 #There are 3 main interface enhancements that will be seen in the PlanMyTrip App at the end of this project
-1. Add weather descrription to the weather data,
-2. Create a customer Vacation Search map,
-3. Create a vacation itinerary map of 4 cities that the customer would like to visit.
+1. A weather descrription to the weather data,
+2. A functional customer Vacation Search map,
+3. A vacation itinerary map of 4 cities [for demo in this project] that the customer would like to visit.
 
 
 ## Resources Utilized to Complete Analysis
