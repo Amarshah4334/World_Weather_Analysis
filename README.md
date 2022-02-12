@@ -1,7 +1,14 @@
 # World_Weather_Analysis
 Generate destinations and travel maps using Google Maps Platform APIs.
-
-
+# Project Overview
+PlanMyTrip app is an excellent travel and weather app that requires adding the weather description to the weather data.
+This requires to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
+Next from the list of potential travel destinations, the customer will now be able to choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, customer will be able to create a travel route between their chosen four cities for travel as well as a marker layer map.
+Upon completion this Analysis will enhance the user interface and functionality of the PlanMyTrip app
+there are 3 main outcomes that will be seen in this Analysis
+1. Add weather descrription to the weather data,
+2. Create a customer Vacation Search map,
+3. Create a vacation itinerary map of 4 cities that the customer would like to visit.
 
 
 ## Resources Utilized to Complete Analysis
@@ -9,7 +16,7 @@ CSV Files: Weather_Database.csv, WeatherPy_vacation.csv
 
 Jupyter Notebook Files:: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
 
-Python, Pandas, Matplotlib, CitiPy, SciPy, APIs, JSON, Numpy, Open Weather API, Google Maps API, Regression Analysis
+Python, Anaconda Navigator, Pandas, Matplotlib, CitiPy, SciPy, APIs, JSON, Numpy, Open Weather API, Google Maps API, Regression Analysis
 
 ## Vacation Search
 ### Purpose: Create a Customer Travel Destinations Map 
