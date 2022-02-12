@@ -4,7 +4,12 @@ Generate destinations and travel maps using Google Maps Platform APIs.
 
 
 
+## Resources Utilized to Complete Analysis
+CSV Files: Weather_Database.csv, WeatherPy_vacation.csv
 
+Jupyter Notebook Files:: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
+
+Python, Pandas, Matplotlib, CitiPy, SciPy, APIs, JSON, Numpy, Open Weather API, Google Maps API, Regression Analysis
 
 ## Vacation Search
 ### Purpose: Create a Customer Travel Destinations Map 
