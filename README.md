@@ -65,5 +65,6 @@ Each marker has the following information:
 
 ## Summary
 PlanMyTrip is a Travel and Weather app. Adding information in regards to weather perferences any customer should be able to select the best vacation destination based on their climate preference. 
-The new interface will help customers easily find their chosen vacation sites; create a travel itineary and route guide, making their trip planning effortless and comfortable.
-The new updated interface will provide them will basic details of city, hotel of stay, weather, country, etc. thus making the customers travel  search experience simplified and effortless. The project would see better customer bandwidth after implementation. 
+The new interface will help customers easily find their chosen vacation sites; create a travel itineary and route guide by providing them with basic details of travel city, hotel of stay, weather, country, etc. thus making the customers travel search experience simplified and effortless. 
+
+The project could improve customer bandwidth and satisfaction on the app post implementation. 
