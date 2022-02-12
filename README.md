@@ -64,4 +64,6 @@ Each marker has the following information:
 
 
 ## Summary
-PlanMyTril ia and Travel and Weather app. adding information in regards to weather perferences a customer can choose what is the best place to go for their weather of choice during vacationing. The new interface will help them easily find their chosen vacation sites based on these weather preferences and lastly will create a travel itineary and route guide making their trip effortless and comfortable both with providing them will basic details of city, hotel of stay, weather country it makes the customers travel  search experience very simplified and effortless. The project whould see better customer bandwidth after implementation. 
+PlanMyTrip is a Travel and Weather app. Adding information in regards to weather perferences any customer should be able to select the best vacation destination based on their climate preference. 
+The new interface will help customers easily find their chosen vacation sites; create a travel itineary and route guide, making their trip planning effortless and comfortable.
+The new updated interface will provide them will basic details of city, hotel of stay, weather, country, etc. thus making the customers travel  search experience simplified and effortless. The project would see better customer bandwidth after implementation. 
